@@ -1,6 +1,6 @@
 <?php
 
-echo "Cidade, " . date("d") . " de "; //date("F")
+echo "Cidade, " . date("d") . " de "; //date("F") //nome dos meses em inglês
 
 //meses em PT-BR
 switch (date("m")) {
